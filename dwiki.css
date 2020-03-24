@@ -1,4 +1,6 @@
-ul {background;color:blue}
-li {color:red}
-body {background:pink}
-li {color:black}
+h1 {outline-style: dotted; outline-color: blue}
+p {font-family: 'CASTELLAR', sans-serif;}
+p {color: white ;}
+hi{background-color: blue;}
+body{background-color: black;}
+h2{background-color: blue;}
